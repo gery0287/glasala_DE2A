@@ -1,0 +1,97 @@
+body {background-image: url("espacio.jpeg");
+}
+#contenidor {
+  background-color: yellow;
+  width: 1050px;
+  height: 3250px;
+  background-image: url("espacio.jpeg");
+
+}
+
+.cuadraditos {
+  height: 500px;
+  width: 500px;
+  background-color: blue;
+  margin: 10px;
+  border: 1px solid #000;
+  text-align: center;
+  border-radius: 25px;
+  line-height: 350px;
+  font-size: 40px;
+  background-size: cover;
+  float: left;
+}
+
+
+
+#div1 {
+  background-color: #AFEEEE;
+  background-image: url("frieza 1.png");
+
+}
+
+#div2 {
+  background-color: #7FFFD4;
+  background-image: url("frieza 2.jpeg");
+}
+
+#div3 {
+  background-color: #40E0D0;
+  background-image: url("frieza 3.png");
+}
+
+#div4 {
+  background-color: #48D1CC;
+  background-image: url("frieza 4.png");
+}
+
+#div5 {
+  background-color: lightblue;
+  background-image: url("frieza 100.jpeg");ç
+}
+
+#div6 {
+  background-color: salmon;
+  background-image: url("frieza gold.jpeg");
+}
+
+#div7 {
+  background-image: url("goku 1.jpeg");
+}
+#div7:hover {
+  background-image: url("vegeta 1.jpg");
+}
+
+#div8 {
+  background-image: url("goku 2.jpeg");
+}
+#div8:hover {
+  background-image: url("vegeta 2.jpg");
+}
+
+#div9 {
+  background-image: url("goku 3.jpeg");
+}
+#div9:hover {
+  background-image: url("vegeta 3.jpg");
+}
+#div10 {
+  background-image: url("goku 4.jpeg");
+}
+#div10:hover {
+  background-image: url("vegeta 4.jpg");
+}
+
+#div11 {
+  background-image: url("goku 5.jpeg");
+}
+#div11:hover {
+  background-image: url("vegeta 5.jpg");
+}
+
+#div12 {
+  background-image: url("goku 6.jpeg");
+}
+#div12:hover {
+  background-image: url("vegeta 6.jpg");
+}
